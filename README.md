@@ -1,2 +1,2 @@
 # hello-world
-training repositoty
+this file has the only porpuse to undestand how github works.
